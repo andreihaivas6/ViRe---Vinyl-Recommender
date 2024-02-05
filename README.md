@@ -41,3 +41,5 @@
 
 #### Week 9:
 * Reviewing the documentation and adjust the diagrams and texts to a final version.
+
+# Code repository link: https://github.com/andreihaivas6/ViRe---Vinyl-Recommender-Private
