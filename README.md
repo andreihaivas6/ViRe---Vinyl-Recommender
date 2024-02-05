@@ -1,7 +1,7 @@
 ![Badge Label](https://img.shields.io/badge/project-green) ![Badge Label](https://img.shields.io/badge/infoiasi-orange) ![Badge Label](https://img.shields.io/badge/wade-blue) ![Badge Label](https://img.shields.io/badge/web-yello)
 # ViRe---Vinyl-Recommender
 
-
+## Code repository link: https://github.com/andreihaivas6/ViRe---Vinyl-Recommender-Private
 
 ## Week 9 deliverables
 [Scholarly HTML technical raport](https://andreihaivas6.github.io/ViRe---Vinyl-Recommender/docs/raport.html)
@@ -42,4 +42,4 @@
 #### Week 9:
 * Reviewing the documentation and adjust the diagrams and texts to a final version.
 
-# Code repository link: https://github.com/andreihaivas6/ViRe---Vinyl-Recommender-Private
+
